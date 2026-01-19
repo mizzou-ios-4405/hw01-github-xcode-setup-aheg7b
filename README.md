@@ -1,6 +1,6 @@
 # HW1: Repository Setup
 
-Please read the full description of the assignment on Canvas.  
+Please read the full description of the assignment on Canvas or in the `Assignment_Instruction.md` file on GitHub.
 After reading the instructions, update the information below as directed.
 
 
